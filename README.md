@@ -36,8 +36,5 @@ Run:
 
 ## Requirements
 
-- Python 3.7+
-- scikit-learn
-- numpy
-- joblib
-- gcc
+- Python: scikit-learn, numpy, joblib
+- C: gcc
